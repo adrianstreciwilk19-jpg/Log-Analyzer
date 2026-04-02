@@ -1,5 +1,4 @@
-Program zapisujący, odczytujący i analizujący logi
-Logi muszą być zapisane w odpowiedniej struktórze np. 2026-03-31 16:00:00 | ERROR | Błąd połączenia
-Cel:
-    1. Odczyt logów z pliku
-    2. Analiza pod kątem ilości errorów warningów, sukcesów etc
+A program for saving, reading, analyzing logs and allowing them to be read in real time. Logs must be saved in the appropriate structure DATE|LEVEL|MSG.
+Program 1 - Reading logs
+Program 2 - Analyzing logs
+Program 3 - Tracking logs
